@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import com.example.demo.Topic;
+import com.example.demo.model.Topic;
 import com.example.demo.service.TopicServiceWithOutJPA;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.model;
 
+import com.example.demo.model.Course;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import io.swagger.annotations.ApiModel;
 import lombok.Getter;
